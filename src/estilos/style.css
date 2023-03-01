@@ -1,3 +1,29 @@
-.cabecalho {
-    background-color: aqua;
+#header{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    padding: .3rem;
+    align-items: center;
+    
+}
+
+#imagem-logo {
+    width: 60px;
+}
+
+#ul-header {
+    display: flex;
+    gap: .6rem;
+    padding-right: .1rem;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a:hover {
+    background-color: blanchedalmond;
 }
