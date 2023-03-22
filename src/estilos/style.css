@@ -27,3 +27,12 @@ a {
 a:hover {
     background-color: blanchedalmond;
 }
+
+/* CSS dos ingredientes */
+
+#titulo-ingredientes {
+    text-align: center;
+    font-size: 3em;
+    padding: 2rem;
+    
+}
