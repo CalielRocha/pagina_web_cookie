@@ -36,3 +36,19 @@ a:hover {
     padding: 2rem;
     
 }
+
+.div-ingredientes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.imagem-igredientes {
+    width: 18em;
+}
+
+.div-filho-ingredientes {
+    display: block;
+    
+}
