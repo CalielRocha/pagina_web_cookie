@@ -41,22 +41,34 @@ a:hover {
     
 }
 
+
+section p {
+    margin-left: 2em;
+}
+
 .div-ingredientes {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: baseline;
     margin: 2.5em;
-    gap: .5rem;
+    gap: 2em;
+    
 }
 
 .imagem-igredientes {
-    width: 18em;
-    height: 16em;
+    width: 17em;
+    height: 14em;
 }
 
 .div-filho-ingredientes {
     display: block;
     background-color: grey;
+    border: solid 3px grey;
+    border-bottom: none;
     
+}
+
+.div-filho-ingredientes:hover {
+    cursor: pointer;
 }
