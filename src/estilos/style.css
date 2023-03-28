@@ -62,11 +62,15 @@ section p {
 }
 
 .div-filho-ingredientes {
-    display: block;
     background-color: grey;
     border: solid 3px grey;
     border-bottom: none;
+    padding-bottom: 1em;
     
+}
+
+.div-filho-ingredientes p {
+    font-style: italic;
 }
 
 .div-filho-ingredientes:hover {
