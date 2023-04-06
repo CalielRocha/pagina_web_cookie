@@ -87,3 +87,12 @@ section p {
 .div-filho-ingredientes:hover {
     cursor: pointer;
 }
+
+/* CSS do modo de preparo */
+
+#titulo-modo-de-preparo {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 24em;
+    font-size: 22px;
+}
