@@ -91,8 +91,23 @@ section p {
 /* CSS do modo de preparo */
 
 #titulo-modo-de-preparo {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 24em;
-    font-size: 22px;
+    text-align: center;
+    font-size: 2em;
+    padding: 1em;
+}
+
+.div-mododepreparo {
+    text-align: center;
+} 
+
+.lista-ordenada {
+    margin: 2em;
+}
+
+.lista-ordenada li {
+    margin: 1em;
+}
+
+footer {
+    background-color: burlywood; 
 }
