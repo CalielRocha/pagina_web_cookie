@@ -73,8 +73,8 @@ section p {
 }
 
 .div-filho-ingredientes {
-    background-color: grey;
-    border: solid 3px grey;
+    background-color: rgba(110, 71, 44, 0.863);
+    border: solid 3px rgba(110, 71, 44, 0.863);
     border-bottom: none;
     padding-bottom: 1em;
     
@@ -98,6 +98,8 @@ section p {
 
 .div-mododepreparo {
     text-align: center;
+    margin-left: 8em;
+    margin-right: 8em;
 } 
 
 .lista-ordenada {
@@ -106,8 +108,12 @@ section p {
 
 .lista-ordenada li {
     margin: 1em;
+    background-color: bisque;
+    padding: 1em;
+    border: solid 2px brown;
 }
 
 footer {
     background-color: burlywood; 
+    text-align: center;
 }
