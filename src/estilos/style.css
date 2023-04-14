@@ -45,6 +45,15 @@ a:hover {
 
 /* CSS dos ingredientes */
 
+.classe-ingredientes p{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 18em;
+    margin-right: 18em;
+    margin-bottom: 4em;
+    
+}
+
 #titulo-ingredientes {
     text-align: center;
     font-size: 3em;
@@ -102,6 +111,10 @@ section p {
     margin-right: 8em;
 } 
 
+.div-mododepreparo li {
+    font-size: 19px;
+}
+
 .lista-ordenada {
     margin: 2em;
 }
@@ -114,6 +127,8 @@ section p {
 }
 
 footer {
-    background-color: burlywood; 
+    font-size: 14px;
     text-align: center;
+    background-color: burlywood;
 }
+    
